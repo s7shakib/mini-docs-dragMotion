@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-docs-dragMotion/static/css/main.d17cc36c.css",
+    "main.js": "/mini-docs-dragMotion/static/js/main.e0f2588e.js",
+    "static/js/787.59532114.chunk.js": "/mini-docs-dragMotion/static/js/787.59532114.chunk.js",
+    "index.html": "/mini-docs-dragMotion/index.html",
+    "main.d17cc36c.css.map": "/mini-docs-dragMotion/static/css/main.d17cc36c.css.map",
+    "main.e0f2588e.js.map": "/mini-docs-dragMotion/static/js/main.e0f2588e.js.map",
+    "787.59532114.chunk.js.map": "/mini-docs-dragMotion/static/js/787.59532114.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17cc36c.css",
+    "static/js/main.e0f2588e.js"
+  ]
+}
